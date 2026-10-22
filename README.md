@@ -15,20 +15,20 @@ This repository brings the lecture slides and their corresponding English–Sinh
 
 | Lecture | Week | Topic | Revision Notes | Source Slides |
 | :---: | :---: | --- | --- | --- |
-| 01 | 01 | Module and Lecture Introduction | [Open notes](Lecture_01_Module_and_Lecture_Introduction_Quick_Revision.md) | [Open slides](Lectures/IE3122_Week1_ModuleAndLectureIntro_Slides.pdf) |
-| 02 | 01 | Networking Revision | [Open notes](Lecture_02_Networking_Revision_Quick_Revision.md) | [Open slides](Lectures/IE3122_Week1_NetworkingRevision_Slides.pdf) |
-| 03 | 02 | Networking and Security Revision | [Open notes](Lecture_03_Networking_and_Security_Revision_Quick_Revision.md) | [Open slides](Lectures/IE3122_Week2_NetworkingAndSecurityRevision_Slides.pdf) |
-| 04 | 03 | Layer 2 Attacks and Defenses | [Open notes](Lecture_04_Layer_2_Attacks_and_Defenses_Quick_Revision.md) | [Open slides](Lectures/IE3122_Week3_Layer2Attacks_Slides.pdf) |
-| 05 | 04 | Layer 3 Attacks and Defenses | [Open notes](Lecture_05_Layer_3_Attacks_and_Defenses_Quick_Revision.md) | [Open slides](Lectures/IE3122_Week4_Layer3Attacks_Slides.pdf) |
-| 06 | 04 | STP Attacks and Defenses | [Open notes](Lecture_06_STP_Attacks_and_Defenses_Quick_Revision.md) | [Open slides](Lectures/IE3122_Week4_STPAttacks_Slides.pdf) |
-| 07 | 05 | Routing Attacks and Defenses | [Open notes](Lecture_07_Routing_Attacks_and_Defenses_Quick_Revision.md) | [Open slides](Lectures/IE3122_Week5_RoutingAttacks_Slides_1.pdf) |
-| 08 | 06 | Layer 4 Attacks and Defenses | [Open notes](Lecture_08_Layer_4_Attacks_and_Defenses_Quick_Revision.md) | [Open slides](Lectures/IE3122_Week6_Layer4Attacks_Slides.pdf) |
-| 09 | 07 | Firewall Placement, Zones, and ACLs | [Open notes](Lecture_09_Firewall_Placement_Zones_and_ACLs_Quick_Revision.md) | [Open slides](Lectures/IE3122_Week7_FirewallPlacementACLs_Slides.pdf) |
-| 10 | 09 | VPN Technologies | [Open notes](Lecture_10_VPN_Technologies_Quick_Revision.md) | [Open slides](Lectures/IE3122_Week9_VPNTechnologies_Slides.pdf) |
-| 11 | 10 | AAA Foundations | [Open notes](Lecture_11_AAA_Foundations_Quick_Revision.md) | [Open slides](Lectures/IE3122_Week10_AAAFoundations_Slides.pdf) |
-| 12 | 10 | AAA Deployment and Configuration | [Open notes](Lecture_12_AAA_Deployment_and_Configuration_Quick_Revision.md) | [Open slides](Lectures/IE3122_Week10_AAADeploymentConfig_Slides.pdf) |
-| 13 | 12 | Cryptography Fundamentals | [Open notes](Lecture_13_Cryptography_Fundamentals_Quick_Revision.md) | [Open slides](Lectures/IE3122_Week12_CryptographyFundamentals_Slides.pdf) |
-| 14 | 12 | Integrity, Digital Signatures, and PKI | [Open notes](Lecture_14_Integrity_Digital_Signatures_and_PKI_Quick_Revision.md) | [Open slides](Lectures/IE3122_Week12_IntegritySignaturesPKI_Slides.pdf) |
+| 01 | 01 | Module and Lecture Introduction | [Open notes](Lecture_01_Week_01_Module_and_Lecture_Introduction_Quick_Revision.md) | [Open slides](Lectures/IE3122_Week1_ModuleAndLectureIntro_Slides.pdf) |
+| 02 | 01 | Networking Revision | [Open notes](Lecture_02_Week_01_Networking_Revision_Quick_Revision.md) | [Open slides](Lectures/IE3122_Week1_NetworkingRevision_Slides.pdf) |
+| 03 | 02 | Networking and Security Revision | [Open notes](Lecture_03_Week_02_Networking_and_Security_Revision_Quick_Revision.md) | [Open slides](Lectures/IE3122_Week2_NetworkingAndSecurityRevision_Slides.pdf) |
+| 04 | 03 | Layer 2 Attacks and Defenses | [Open notes](Lecture_04_Week_03_Layer_2_Attacks_and_Defenses_Quick_Revision.md) | [Open slides](Lectures/IE3122_Week3_Layer2Attacks_Slides.pdf) |
+| 05 | 04 | Layer 3 Attacks and Defenses | [Open notes](Lecture_05_Week_04_Layer_3_Attacks_and_Defenses_Quick_Revision.md) | [Open slides](Lectures/IE3122_Week4_Layer3Attacks_Slides.pdf) |
+| 06 | 04 | STP Attacks and Defenses | [Open notes](Lecture_06_Week_04_STP_Attacks_and_Defenses_Quick_Revision.md) | [Open slides](Lectures/IE3122_Week4_STPAttacks_Slides.pdf) |
+| 07 | 05 | Routing Attacks and Defenses | [Open notes](Lecture_07_Week_05_Routing_Attacks_and_Defenses_Quick_Revision.md) | [Open slides](Lectures/IE3122_Week5_RoutingAttacks_Slides_1.pdf) |
+| 08 | 06 | Layer 4 Attacks and Defenses | [Open notes](Lecture_08_Week_06_Layer_4_Attacks_and_Defenses_Quick_Revision.md) | [Open slides](Lectures/IE3122_Week6_Layer4Attacks_Slides.pdf) |
+| 09 | 07 | Firewall Placement, Zones, and ACLs | [Open notes](Lecture_09_Week_07_Firewall_Placement_Zones_and_ACLs_Quick_Revision.md) | [Open slides](Lectures/IE3122_Week7_FirewallPlacementACLs_Slides.pdf) |
+| 10 | 09 | VPN Technologies | [Open notes](Lecture_10_Week_09_VPN_Technologies_Quick_Revision.md) | [Open slides](Lectures/IE3122_Week9_VPNTechnologies_Slides.pdf) |
+| 11 | 10 | AAA Foundations | [Open notes](Lecture_11_Week_10_AAA_Foundations_Quick_Revision.md) | [Open slides](Lectures/IE3122_Week10_AAAFoundations_Slides.pdf) |
+| 12 | 10 | AAA Deployment and Configuration | [Open notes](Lecture_12_Week_10_AAA_Deployment_and_Configuration_Quick_Revision.md) | [Open slides](Lectures/IE3122_Week10_AAADeploymentConfig_Slides.pdf) |
+| 13 | 12 | Cryptography Fundamentals | [Open notes](Lecture_13_Week_12_Cryptography_Fundamentals_Quick_Revision.md) | [Open slides](Lectures/IE3122_Week12_CryptographyFundamentals_Slides.pdf) |
+| 14 | 12 | Integrity, Digital Signatures, and PKI | [Open notes](Lecture_14_Week_12_Integrity_Digital_Signatures_and_PKI_Quick_Revision.md) | [Open slides](Lectures/IE3122_Week12_IntegritySignaturesPKI_Slides.pdf) |
 
 ### Additional Short Notes
 
@@ -47,9 +47,9 @@ This repository brings the lecture slides and their corresponding English–Sinh
 ```text
 IE3122---Network_Security-SLIIT-/
 ├── Lectures/                         # Original lecture slides (PDF)
-├── Lecture_01_..._Quick_Revision.md  # Lecture revision notes
+├── Lecture_01_Week_01_..._Quick_Revision.md  # Lecture revision notes
 ├── ...
-├── Lecture_14_..._Quick_Revision.md
+├── Lecture_14_Week_12_..._Quick_Revision.md
 ├── IE3122_Week01_..._Short_Notes.md  # Additional concise notes
 └── README.md
 ```
