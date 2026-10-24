@@ -34,6 +34,10 @@ This repository brings the lecture slides and their corresponding English–Sinh
 
 - [Week 01 — Networking Revision Short Notes](IE3122_Week01_Networking_Revision_Short_Notes.md)
 
+### Compact Final-Exam Reference Sheets
+
+- [Open the 9-sheet reference pack](Reference_Sheets/README.md) — A4 landscape, 5 pt, compact borderless tables covering lectures, tutorials, and labs with minimal repetition.
+
 ## How to Use This Repository
 
 1. Read the relevant PDF in the [`Lectures`](Lectures/) directory.
