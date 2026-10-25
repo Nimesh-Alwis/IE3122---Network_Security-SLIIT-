@@ -71,6 +71,17 @@ The [`Reference_Sheets`](Reference_Sheets/) directory contains nine compact shee
 
 Start with the [reference-pack index](Reference_Sheets/README.md) or use Sheet 09 as the last-minute navigation sheet.
 
+## Past Papers
+
+The [`Network security pastpapers`](Network%20security%20%20pastpapers/) collection contains consistently renamed PDFs and searchable Markdown transcriptions.
+
+| Module | Available sessions | Index |
+|---|---|---|
+| IE3032 — Network Security | June 2022, June 2023, June 2024, May 2026 | [Open papers](Network%20security%20%20pastpapers/README.md) |
+| IE3080 — Network Security Engineering | November 2024 | [Open related paper](Network%20security%20%20pastpapers/IE3080_Network_Security_Engineering_Final_2024_November.md) |
+
+Exact duplicate PDFs are preserved under the past-paper folder’s `_Duplicate_Copies` directory and excluded from the main list.
+
 ## Additional Short Notes
 
 - [Week 01 — Networking Revision Short Notes](IE3122_Week01_Networking_Revision_Short_Notes.md)
@@ -102,6 +113,11 @@ IE3122---Network_Security-SLIIT-/
 │   ├── ...
 │   ├── 09_Master_Last_Minute_Reference_Sheet.md
 │   └── README.md                              # Reference-pack index
+├── Network security  pastpapers/              # Renamed PDFs + searchable Markdown papers
+│   ├── IE3032_Network_Security_Final_...pdf
+│   ├── IE3032_Network_Security_Final_...md
+│   ├── _Duplicate_Copies/                     # Hash-identical copies retained safely
+│   └── README.md                              # Past-paper index
 ├── Lecture_01_Week_01_..._Quick_Revision.md   # Detailed lecture notes
 ├── ...
 ├── Lecture_14_Week_12_..._Quick_Revision.md
