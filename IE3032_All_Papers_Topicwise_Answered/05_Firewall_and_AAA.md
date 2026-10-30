@@ -92,17 +92,23 @@ To **allow** inter-zone traffic, a separate zone-pair, class-map and policy-map 
 
 ```cisco
 conf t
+// Enter global configuration mode
 ip access-list standard File_Server_Restrictions
- permit host 192.168.20.4
- permit host 192.168.100.100
- deny any
-exit
+// Create a standard named ACL
+ permit host 192.168.20.4 // Allow PC1
+ permit host 192.168.100.100 // Allow Web Server
+ deny any // Block all other source IP addresses
+exit// Exit ACL configuration mode
 interface fa0/1
+// Select FastEthernet 0/1 interface
  ip access-group File_Server_Restrictions out
-exit
+ // Apply ACL to outgoing traffic
+exit// Exit interface configuration mode
 access-list 1 deny 192.168.11.0 0.0.0.255
+// Deny source network 192.168.11.0/24
 access-list 1 permit any
-end
+// Allow all other source IP addresses
+end// Exit configuration mode
 ```
 **Important source inconsistency:** a standard ACL cannot match destination network `192.168.20.0/24`; it matches **source only**. The original request to deny traffic **to** that subnet **from** `192.168.11.0/24` requires an **extended** ACL (below) on an appropriate interface. Cisco ACL names cannot contain spaces; underscores used above.
 ```cisco
