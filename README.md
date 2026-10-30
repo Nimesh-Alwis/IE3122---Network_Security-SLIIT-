@@ -12,6 +12,7 @@ This repository brings the official lecture slides, lecture-by-lecture English�
 - Lecture-by-lecture quick-revision notes in Markdown
 - Tutorial worksheets and practical lab guides in DOCX format
 - Nine compact, print-ready final-exam reference sheets
+- Year-by-year past papers with simple English model answers
 - English explanations with Sinhala summaries
 - Exam-focused comparisons, attack/defence matrices, Cisco commands, troubleshooting steps, and answer frameworks
 
@@ -82,6 +83,20 @@ The [`Network security pastpapers`](Network%20security%20%20pastpapers/) collect
 
 Exact duplicate PDFs are preserved under the past-paper folder’s `_Duplicate_Copies` directory and excluded from the main list.
 
+### Past Papers with Answers
+
+The [`papers with answers`](papers%20with%20answers/) collection keeps the complete paper text together with simple English, mark-oriented model answers, Cisco IOS commands, and ASCII diagrams.
+
+| Year | Paper | Answered file |
+| :---: | --- | --- |
+| 2022 | IE3032 — June Final | [Questions with simple answers](papers%20with%20answers/2022/IE3032_Network_Security_Final_2022_June_With_Simple_Answers.md) |
+| 2023 | IE3032 — June Final | [Questions with simple answers](papers%20with%20answers/2023/IE3032_Network_Security_Final_2023_June_With_Simple_Answers.md) |
+| 2024 | IE3032 — June Final | [Questions with simple answers](papers%20with%20answers/2024/IE3032_Network_Security_Final_2024_June_With_Simple_Answers.md) |
+| 2024 | IE3080 — November Final | [Questions with simple answers](papers%20with%20answers/2024/IE3080_Network_Security_Engineering_Final_2024_November_With_Simple_Answers.md) |
+| 2026 | IE3032 — May Final | [Questions with simple answers](papers%20with%20answers/2026/IE3032_Network_Security_Final_2026_May_With_Simple_Answers.md) |
+
+Open the [answered-paper index](papers%20with%20answers/README.md) to browse by year.
+
 ## Additional Short Notes
 
 - [Week 01 — Networking Revision Short Notes](IE3122_Week01_Networking_Revision_Short_Notes.md)
@@ -93,8 +108,9 @@ Exact duplicate PDFs are preserved under the past-paper folder’s `_Duplicate_C
 3. Complete the corresponding tutorial and lab from [`LABS and tutorials`](LABS%20and%20tutorials/).
 4. Review the appropriate reference sheet for comparisons, commands, and condensed recall.
 5. Practise four structured answers under a two-hour limit—approximately 30 minutes per question.
-6. Use Sheet 08 to structure `describe`, `explain`, `compare`, `evaluate`, `recommend`, and `configure` answers.
-7. Verify uncertain details against the official lecture, tutorial, or lab material.
+6. Compare your attempt with the matching year-by-year file in [`papers with answers`](papers%20with%20answers/).
+7. Use Sheet 08 to structure `describe`, `explain`, `compare`, `evaluate`, `recommend`, and `configure` answers.
+8. Verify uncertain details against the official lecture, tutorial, or lab material.
 
 ### Recommended Revision Order
 
@@ -118,6 +134,13 @@ IE3122---Network_Security-SLIIT-/
 │   ├── IE3032_Network_Security_Final_...md
 │   ├── _Duplicate_Copies/                     # Hash-identical copies retained safely
 │   └── README.md                              # Past-paper index
+├── papers not edit/                           # Verbatim Markdown question papers
+├── papers with answers/                       # Year-by-year questions + model answers
+│   ├── 2022/
+│   ├── 2023/
+│   ├── 2024/
+│   ├── 2026/
+│   └── README.md                              # Answered-paper index
 ├── Lecture_01_Week_01_..._Quick_Revision.md   # Detailed lecture notes
 ├── ...
 ├── Lecture_14_Week_12_..._Quick_Revision.md
